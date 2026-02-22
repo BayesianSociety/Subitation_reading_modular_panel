@@ -1,0 +1,14 @@
+{
+  "name": "subitation-reading-modular-panel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reading tiles app with custom words/sentences stored in SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}

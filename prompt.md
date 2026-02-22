@@ -92,3 +92,11 @@
   - Add Dockerfile
   - Add docker-compose.yml
   - Optionally add .dockerignore
+  
+  
+› Introduce those changes, but do not make any additional changes to those files except for what has been agreed
+  in your list. Also, append README.md file with instructions on how to run this application, but do not
+  overwrite the README.md, just append. Make this application transferable to a different machine which uses
+  docker desktop. Do not change any words, expressions or sentences. Make sure the application uses the SQLite
+  database. Make sure the pannel where I enter my own words or sentences is in line with the current look of the
+  application.
