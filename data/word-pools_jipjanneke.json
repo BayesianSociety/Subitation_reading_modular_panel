@@ -1,0 +1,1124 @@
+{
+  "words": {
+    "en-US": {
+      "0": [
+        {
+          "text": "forest",
+          "tags": [
+            "nature",
+            "easy"
+          ]
+        },
+        {
+          "text": "gentle",
+          "tags": [
+            "adjective",
+            "calm"
+          ]
+        },
+        {
+          "text": "silver",
+          "tags": [
+            "color"
+          ]
+        },
+        {
+          "text": "planet",
+          "tags": [
+            "space"
+          ]
+        },
+        {
+          "text": "harbor",
+          "tags": [
+            "place",
+            "travel"
+          ]
+        },
+        {
+          "text": "garden",
+          "tags": [
+            "nature",
+            "daily"
+          ]
+        },
+        {
+          "text": "moment",
+          "tags": [
+            "time"
+          ]
+        },
+        {
+          "text": "whisper",
+          "tags": [
+            "sound"
+          ]
+        },
+        {
+          "text": "rocket",
+          "tags": [
+            "space",
+            "technology"
+          ]
+        },
+        {
+          "text": "canyon",
+          "tags": [
+            "nature"
+          ]
+        },
+        {
+          "text": "sunset",
+          "tags": [
+            "nature",
+            "time"
+          ]
+        },
+        {
+          "text": "wonder",
+          "tags": [
+            "emotion"
+          ]
+        },
+        {
+          "text": "packet",
+          "tags": [
+            "object"
+          ]
+        },
+        {
+          "text": "bridge",
+          "tags": [
+            "place",
+            "structure"
+          ]
+        },
+        {
+          "text": "lantern",
+          "tags": [
+            "object",
+            "light"
+          ]
+        },
+        {
+          "text": "meadow",
+          "tags": [
+            "nature"
+          ]
+        },
+        {
+          "text": "compass",
+          "tags": [
+            "tool",
+            "travel"
+          ]
+        },
+        {
+          "text": "thunder",
+          "tags": [
+            "weather"
+          ]
+        },
+        {
+          "text": "pebble",
+          "tags": [
+            "nature",
+            "small"
+          ]
+        },
+        {
+          "text": "horizon",
+          "tags": [
+            "nature",
+            "view"
+          ]
+        },
+        {
+          "text": "ember",
+          "tags": [
+            "fire"
+          ]
+        },
+        {
+          "text": "riverbank",
+          "tags": [
+            "nature"
+          ]
+        },
+        {
+          "text": "skylark",
+          "tags": [
+            "animal"
+          ]
+        },
+        {
+          "text": "lighthouse",
+          "tags": [
+            "place",
+            "light"
+          ]
+        },
+        {
+          "text": "voyage",
+          "tags": [
+            "travel"
+          ]
+        },
+        {
+          "text": "harvest",
+          "tags": [
+            "season"
+          ]
+        },
+        {
+          "text": "tideline",
+          "tags": [
+            "nature",
+            "water"
+          ]
+        },
+        {
+          "text": "orchard",
+          "tags": [
+            "nature",
+            "food"
+          ]
+        },
+        {
+          "text": "quartz",
+          "tags": [
+            "science"
+          ]
+        },
+        {
+          "text": "breeze",
+          "tags": [
+            "weather",
+            "easy"
+          ]
+        },
+        {
+          "text": "embers",
+          "tags": [
+            "fire"
+          ]
+        },
+        {
+          "text": "pathway",
+          "tags": [
+            "place"
+          ]
+        },
+        {
+          "text": "glimmer",
+          "tags": [
+            "light"
+          ]
+        },
+        {
+          "text": "harborlight",
+          "tags": [
+            "place",
+            "light"
+          ]
+        },
+        {
+          "text": "songbird",
+          "tags": [
+            "animal"
+          ]
+        },
+        {
+          "text": "journey",
+          "tags": [
+            "travel"
+          ]
+        },
+        {
+          "text": "prairie",
+          "tags": [
+            "nature"
+          ]
+        },
+        {
+          "text": "courage",
+          "tags": [
+            "emotion"
+          ]
+        },
+        {
+          "text": "treetop",
+          "tags": [
+            "nature"
+          ]
+        },
+        {
+          "text": "starlight",
+          "tags": [
+            "space",
+            "light"
+          ]
+        },
+        {
+          "text": "willow",
+          "tags": [
+            "nature"
+          ]
+        },
+        {
+          "text": "seashell",
+          "tags": [
+            "nature",
+            "ocean"
+          ]
+        },
+        {
+          "text": "laneway",
+          "tags": [
+            "place"
+          ]
+        },
+        {
+          "text": "keystone",
+          "tags": [
+            "structure"
+          ]
+        },
+        {
+          "text": "firefly",
+          "tags": [
+            "animal",
+            "light"
+          ]
+        },
+        {
+          "text": "harboring",
+          "tags": [
+            "verb"
+          ]
+        },
+        {
+          "text": "daybreak",
+          "tags": [
+            "time"
+          ]
+        },
+        {
+          "text": "keepsake",
+          "tags": [
+            "object"
+          ]
+        },
+        {
+          "text": "storybook",
+          "tags": [
+            "object",
+            "reading"
+          ]
+        }
+      ],
+      "1": [],
+      "2": []
+    },
+    "nl-NL": {
+      "0": [
+        {
+          "text": "janneke",
+          "tags": [
+            "natuur",
+            "makkelijk"
+          ]
+        },
+        {
+          "text": "vanavond",
+          "tags": [
+            "bijwoord"
+          ]
+        },
+        {
+          "text": "over",
+          "tags": [
+            "kleur"
+          ]
+        },
+        {
+          "text": "bloemetjes",
+          "tags": [
+            "ruimte"
+          ]
+        },
+        {
+          "text": "vroeg",
+          "tags": [
+            "plaats",
+            "reizen"
+          ]
+        },
+        {
+          "text": "halen",
+          "tags": [
+            "natuur"
+          ]
+        },
+        {
+          "text": "knietjes",
+          "tags": [
+            "tijd"
+          ]
+        },
+        {
+          "text": "pssst",
+          "tags": [
+            "geluid"
+          ]
+        },
+        {
+          "text": "jongen",
+          "tags": [
+            "ruimte",
+            "techniek"
+          ]
+        },
+        {
+          "text": "oude",
+          "tags": [
+            "natuur"
+          ]
+        },
+        {
+          "text": "verdrietig",
+          "tags": [
+            "natuur",
+            "tijd"
+          ]
+        },
+        {
+          "text": "pas",
+          "tags": [
+            "gevoel"
+          ]
+        },
+        {
+          "text": "liggen",
+          "tags": [
+            "object"
+          ]
+        },
+        {
+          "text": "horen",
+          "tags": [
+            "plaats",
+            "structuur"
+          ]
+        },
+        {
+          "text": "staat",
+          "tags": [
+            "licht"
+          ]
+        },
+        {
+          "text": "doet",
+          "tags": [
+            "natuur"
+          ]
+        },
+        {
+          "text": "vijf",
+          "tags": [
+            "gereedschap",
+            "reizen"
+          ]
+        },
+        {
+          "text": "niets",
+          "tags": [
+            "weer"
+          ]
+        },
+        {
+          "text": "wekker",
+          "tags": [
+            "natuur",
+            "klein"
+          ]
+        },
+        {
+          "text": "gejokt",
+          "tags": [
+            "natuur"
+          ]
+        },
+        {
+          "text": "thee",
+          "tags": [
+            "vuur"
+          ]
+        },
+        {
+          "text": "roept",
+          "tags": [
+            "natuur"
+          ]
+        },
+        {
+          "text": "gaan",
+          "tags": [
+            "dier"
+          ]
+        },
+        {
+          "text": "zegt",
+          "tags": [
+            "plaats",
+            "licht"
+          ]
+        },
+        {
+          "text": "stiekem",
+          "tags": [
+            "reizen"
+          ]
+        },
+        {
+          "text": "oortje",
+          "tags": [
+            "seizoen"
+          ]
+        },
+        {
+          "text": "naar",
+          "tags": [
+            "tijd"
+          ]
+        },
+        {
+          "text": "kunt",
+          "tags": [
+            "natuur"
+          ]
+        },
+        {
+          "text": "jee",
+          "tags": [
+            "plaats"
+          ]
+        },
+        {
+          "text": "goed",
+          "tags": [
+            "natuur",
+            "water"
+          ]
+        },
+        {
+          "text": "proberen",
+          "tags": [
+            "natuur",
+            "licht"
+          ]
+        },
+        {
+          "text": "ertegenaan",
+          "tags": [
+            "object"
+          ]
+        },
+        {
+          "text": "daar",
+          "tags": [
+            "gevoel"
+          ]
+        },
+        {
+          "text": "kinderen",
+          "tags": [
+            "natuur"
+          ]
+        },
+        {
+          "text": "moeder",
+          "tags": [
+            "object",
+            "geluid"
+          ]
+        },
+        {
+          "text": "mama",
+          "tags": [
+            "object"
+          ]
+        },
+        {
+          "text": "hoor",
+          "tags": [
+            "licht"
+          ]
+        },
+        {
+          "text": "belooft",
+          "tags": [
+            "dier"
+          ]
+        },
+        {
+          "text": "waar",
+          "tags": [
+            "textuur"
+          ]
+        },
+        {
+          "text": "zeven",
+          "tags": [
+            "feest",
+            "plant"
+          ]
+        },
+        {
+          "text": "raam",
+          "tags": [
+            "weer"
+          ]
+        },
+        {
+          "text": "morgen",
+          "tags": [
+            "tijd",
+            "gevoel"
+          ]
+        },
+        {
+          "text": "gehouden",
+          "tags": [
+            "weer",
+            "seizoen"
+          ]
+        },
+        {
+          "text": "geschrokken",
+          "tags": [
+            "plaats",
+            "structuur"
+          ]
+        },
+        {
+          "text": "moeten",
+          "tags": [
+            "natuur",
+            "landbouw"
+          ]
+        },
+        {
+          "text": "hebben",
+          "tags": [
+            "licht"
+          ]
+        },
+        {
+          "text": "worden",
+          "tags": [
+            "natuur",
+            "ochtend"
+          ]
+        },
+        {
+          "text": "morgens",
+          "tags": [
+            "ruimte"
+          ]
+        }
+      ],
+      "1": [],
+      "2": []
+    }
+  },
+  "expressions": {
+    "en-US": {
+      "0": [
+        {
+          "text": "Trust your instincts",
+          "tags": [
+            "motivation"
+          ]
+        },
+        {
+          "text": "Follow that light",
+          "tags": [
+            "direction"
+          ]
+        },
+        {
+          "text": "Speak with kindness",
+          "tags": [
+            "kindness"
+          ]
+        },
+        {
+          "text": "Enjoy the journey",
+          "tags": [
+            "travel",
+            "mindfulness"
+          ]
+        },
+        {
+          "text": "Guard every promise",
+          "tags": [
+            "values"
+          ]
+        },
+        {
+          "text": "Share the wonder",
+          "tags": [
+            "curiosity"
+          ]
+        },
+        {
+          "text": "Carry hope forward",
+          "tags": [
+            "optimism"
+          ]
+        },
+        {
+          "text": "Choose calm breaths",
+          "tags": [
+            "mindfulness"
+          ]
+        },
+        {
+          "text": "Celebrate small wins",
+          "tags": [
+            "growth"
+          ]
+        },
+        {
+          "text": "Listen for courage",
+          "tags": [
+            "encouragement"
+          ]
+        },
+        {
+          "text": "Keep curiosity open",
+          "tags": [
+            "learning"
+          ]
+        },
+        {
+          "text": "Lead with gentle courage",
+          "tags": [
+            "leadership"
+          ]
+        },
+        {
+          "text": "Let patience be your guide",
+          "tags": [
+            "patience"
+          ]
+        },
+        {
+          "text": "Trade hurry for focus",
+          "tags": [
+            "mindfulness"
+          ]
+        },
+        {
+          "text": "Build quiet confidence",
+          "tags": [
+            "confidence"
+          ]
+        },
+        {
+          "text": "Water dreams with practice",
+          "tags": [
+            "growth",
+            "metaphor"
+          ]
+        },
+        {
+          "text": "Invite joy into routine",
+          "tags": [
+            "mindfulness"
+          ]
+        },
+        {
+          "text": "Hold promises with care",
+          "tags": [
+            "values"
+          ]
+        },
+        {
+          "text": "Share light, scatter worry",
+          "tags": [
+            "kindness"
+          ]
+        },
+        {
+          "text": "Keep the wonder going",
+          "tags": [
+            "curiosity"
+          ]
+        }
+      ],
+      "1": [],
+      "2": []
+    },
+    "nl-NL": {
+      "0": [
+        {
+          "text": "Mooi,' zegt buurman",
+          "tags": [
+            "motivatie"
+          ]
+        },
+        {
+          "text": "Jip en Janneke gaan op hun knietjes liggen",
+          "tags": [
+            "vreugde"
+          ]
+        },
+        {
+          "text": "Sneeuwklokjes luiden nooit",
+          "tags": [
+            "aandacht"
+          ]
+        },
+        {
+          "text": "Maar o jee",
+          "tags": [
+            "vriendelijkheid"
+          ]
+        },
+        {
+          "text": "Te laat,' zegt Janneke boos",
+          "tags": [
+            "samen"
+          ]
+        },
+        {
+          "text": "En dan gaat ze naar Jip z'n huis",
+          "tags": [
+            "creativiteit"
+          ]
+        },
+        {
+          "text": "Nee hoor",
+          "tags": [
+            "mindfulness"
+          ]
+        },
+        {
+          "text": "Dag kinderen,' zegt hij",
+          "tags": [
+            "zelfvertrouwen"
+          ]
+        },
+        {
+          "text": "Je moet het's morgens vroeg proberen, zegt buurman",
+          "tags": [
+            "groei"
+          ]
+        },
+        {
+          "text": "Maar ze horen niets",
+          "tags": [
+            "leren"
+          ]
+        },
+        {
+          "text": "De oude buurman kijkt over de heg",
+          "tags": [
+            "zorg"
+          ]
+        },
+        {
+          "text": "Hij is al half aangekleed",
+          "tags": [
+            "rust"
+          ]
+        },
+        {
+          "text": "Heel vroeg",
+          "tags": [
+            "vriendelijkheid"
+          ]
+        },
+        {
+          "text": "die net thee zet",
+          "tags": [
+            "samenwerking"
+          ]
+        },
+        {
+          "text": "Dan luiden de sneeuwklokjes",
+          "tags": [
+            "inspiratie"
+          ]
+        },
+        {
+          "text": "Daar komt Jip",
+          "tags": [
+            "blijheid"
+          ]
+        },
+        {
+          "text": "daar zijn de sneeuwklokjes",
+          "tags": [
+            "nieuwsgierigheid"
+          ]
+        },
+        {
+          "text": "blijf maar lekker in je bed",
+          "tags": [
+            "begrip"
+          ]
+        },
+        {
+          "text": "Dan moet je goed luisteren",
+          "tags": [
+            "mindset"
+          ]
+        },
+        {
+          "text": "Ja,' zegt Jip verdrietig",
+          "tags": [
+            "rust",
+            "beeldspraak"
+          ]
+        }
+      ],
+      "1": [],
+      "2": []
+    }
+  },
+  "sentences": {
+    "en-US": {
+      "0": [
+        {
+          "text": "Every morning brings a choice",
+          "tags": [
+            "routine",
+            "mindfulness"
+          ]
+        },
+        {
+          "text": "Learning together builds lasting friendships",
+          "tags": [
+            "community",
+            "learning"
+          ]
+        },
+        {
+          "text": "Practice patience for enduring growth",
+          "tags": [
+            "growth"
+          ]
+        },
+        {
+          "text": "Small acts create brighter days",
+          "tags": [
+            "kindness"
+          ]
+        },
+        {
+          "text": "Caring words encourage brave steps",
+          "tags": [
+            "encouragement"
+          ]
+        },
+        {
+          "text": "Curiosity opens unexpected doors",
+          "tags": [
+            "curiosity"
+          ]
+        },
+        {
+          "text": "Gentle focus leads to steady progress",
+          "tags": [
+            "focus"
+          ]
+        },
+        {
+          "text": "Sharing stories nurtures community",
+          "tags": [
+            "community"
+          ]
+        },
+        {
+          "text": "Listening deeply invites understanding",
+          "tags": [
+            "empathy"
+          ]
+        },
+        {
+          "text": "Kind routines guide confident learners",
+          "tags": [
+            "confidence"
+          ]
+        },
+        {
+          "text": "Practice sets the stage for courage",
+          "tags": [
+            "practice",
+            "courage"
+          ]
+        },
+        {
+          "text": "Hope grows when teams cheer each other on",
+          "tags": [
+            "teamwork",
+            "hope"
+          ]
+        },
+        {
+          "text": "Calm breaths steady even the busiest mind",
+          "tags": [
+            "mindfulness"
+          ]
+        },
+        {
+          "text": "Questions plant the seeds of discovery",
+          "tags": [
+            "learning"
+          ]
+        },
+        {
+          "text": "Morning sunlight paints new chances",
+          "tags": [
+            "imagery",
+            "routine"
+          ]
+        }
+      ],
+      "1": [],
+      "2": []
+    },
+    "nl-NL": {
+      "0": [
+        {
+          "text": "Kijk, daar staat de buurman.",
+          "tags": [
+            "routine"
+          ]
+        },
+        {
+          "text": "Heel vroeg, om vijf uur.",
+          "tags": [
+            "gemeenschap"
+          ]
+        },
+        {
+          "text": "Dan moet je goed luisteren.",
+          "tags": [
+            "groei"
+          ]
+        },
+        {
+          "text": "Te laat,’ zegt Janneke boos.",
+          "tags": [
+            "vriendelijkheid"
+          ]
+        },
+        {
+          "text": "Hij is al half aangekleed.",
+          "tags": [
+            "mindfulness"
+          ]
+        },
+        {
+          "text": "Maar ze horen niets.",
+          "tags": [
+            "nieuwsgierigheid"
+          ]
+        },
+        {
+          "text": "En hij komt gauw naar buiten.",
+          "tags": [
+            "focus"
+          ]
+        },
+        {
+          "text": "Dag kinderen,’ zegt hij.",
+          "tags": [
+            "gemeenschap"
+          ]
+        },
+        {
+          "text": "De oude buurman kijkt over de heg.",
+          "tags": [
+            "empathie"
+          ]
+        },
+        {
+          "text": "We hebben sneeuwklokjes.",
+          "tags": [
+            "vertrouwen"
+          ]
+        },
+        {
+          "text": "Mama,’ zegt Jip, ‘mag ik vanavond de wekker?",
+          "tags": [
+            "geduld"
+          ]
+        },
+        {
+          "text": "De buurman heeft je voor de gek gehouden.",
+          "tags": [
+            "muziek",
+            "vreugde"
+          ]
+        },
+        {
+          "text": "Nee hoor, blijf maar lekker in je bed.",
+          "tags": [
+            "leren"
+          ]
+        },
+        {
+          "text": "Maar ze gaan het morgen nog eens proberen.",
+          "tags": [
+            "vriendelijkheid"
+          ]
+        },
+        {
+          "text": "Ze weten niet of de buurman gejokt heeft.",
+          "tags": [
+            "metaforisch",
+            "groei"
+          ]
+        }
+      ],
+      "1": [
+		  {
+			  "text": "Jip en Janneke proberen het meteen.",
+			  "tags": [
+				"routine"
+			  ]
+			},
+			{
+			  "text": "Dan luiden de sneeuwklokjes.",
+			  "tags": [
+				"gemeenschap"
+			  ]
+			},
+			{
+			  "text": "Jip en Janneke zijn er opgewonden van.",
+			  "tags": [
+				"groei"
+			  ]
+			},
+			{
+			  "text": "Morgen kom ik je halen.",
+			  "tags": [
+				"groei"
+			  ]
+			},
+						{
+			  "text": "Heel vroeg.",
+			  "tags": [
+				"groei"
+			  ]
+			}
+			],
+      "2": []
+    }
+  }
+}
